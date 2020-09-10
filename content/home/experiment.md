@@ -24,7 +24,7 @@ Ultimately this project aims to **provide clear guidelines for effective ecologi
 
 The project will be implemented in October 2021 on a degraded area dominated by abandoned pasture at the Fazenda Experimental do Núcleo de Integração Acadêmica para a Sustentabilidade Socioambiental da Universidade Federal de Juiz de Fora (NIASSA-UFJF). 
 
-![](/desenho/body_files/BEF.jpg)
+![](/home/experiment_files/teste)
 
 *Google earth image showing the full area of the NIASSA farm (red lines) and the potential 
 areas where trees will be planted.*
@@ -35,10 +35,11 @@ The BEF-Atlantic experiment will restore a large area of abandoned pasture in th
 
 ![](/home/experiment_files/niassa_vista_casa_montanha.jpeg)
 
+![](/home/experiment_files/niassa_vista_lateral_morro.jpg)
+
 # Local seedlings 
 
 Seedlings of native tree species from the area are being produced in the local seedling nursery.
 
-![](/home/experiment_files/niassa_viveiro_de_mudas.jpeg)
-
+![](/home/experiment_files/mudas.jpeg)
 

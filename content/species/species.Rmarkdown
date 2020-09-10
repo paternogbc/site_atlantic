@@ -15,6 +15,10 @@ headless = true  # This file represents a page section.
 
 # Species pool
 
-BEF-Atlantic includes species from a wide range of phylogenetic lineages and ecological strategies, emcompassing species from 12 orders and 26 plant families.
+BEF-Atlantic will use a subset of a regional pool of 53 tree species from a wide range of phylogenetic lineages and ecological strategies, representing 12 orders and 26 plant families of seed plants.
 
 ![](/species/species_files/species_families_tree.png)
+
+
+
+

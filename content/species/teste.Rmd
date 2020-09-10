@@ -1,0 +1,23 @@
+---
+title: "Species list"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(here)
+library(tidyverse)
+library(kableExtra)
+library(dplyr)
+library(patchwork)
+d <- read.csv(here("static", "files", "reference_pool_taxonomy.csv"))
+```
+
+## Species list
+
+```{r sp_list, message=FALSE, echo = FALSE}
+d %>% 
+  mutate(N = 1:nrow(d)) %>% 
+  select(N, order, family, spcies = tpl_name, authority) %>% 
+  kable()
+```
