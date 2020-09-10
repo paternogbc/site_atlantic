@@ -28,7 +28,7 @@ areas where trees will be planted.*
 **BEF-Atlantic** consists of 232 experimental plots (21.25 x 26 m) with contrasting tree species richness and phylogenetic diversity, totalizing an area of 13 hectares and the planting of 22,000 trees. The overall pool of species will be 48 natives tree species from the Atlantic Forest. 
 
 Each experimental plot will contain 96 trees and will be divided in 4 equal subplots. Trees will be planted in a hexagonal planting pattern with distancing 2.3 meters from each other. 
-![](/desenho/body_files/plot_design.png)
+![](/desenho/body_files/plot_design_small.png)
 
 *BEF-Atlantic plot design showing the hexagonal planting pattern with a minimal distance of 2.3 meters between plants.*
 
