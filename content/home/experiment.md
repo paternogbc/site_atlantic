@@ -24,7 +24,7 @@ Ultimately this project aims to **provide clear guidelines for effective ecologi
 
 The project will be implemented in October 2021 on a degraded area dominated by abandoned pasture at the Fazenda Experimental do Núcleo de Integração Acadêmica para a Sustentabilidade Socioambiental da Universidade Federal de Juiz de Fora (NIASSA-UFJF). 
 
-![](/home/experiment_files/teste)
+![](/home/experiment_files/desenho_area.jpeg)
 
 *Google earth image showing the full area of the NIASSA farm (red lines) and the potential 
 areas where trees will be planted.*
