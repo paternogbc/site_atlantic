@@ -11,7 +11,7 @@ headless = true  # This file represents a page section.
 
 # Plot Design
 
-**BEF-Atlantic** consists of 232 experimental plots (21.25 x 26 m) with contrasting tree species richness and phylogenetic diversity, totalizing an area of 13 hectares and the planting of 22,000 trees. The overall pool of species will be 48 natives tree species from the Atlantic Forest. 
+**BEF-Atlantic** consists of 232 experimental plots (21.25 x 26 m) with contrasting tree species richness and phylogenetic diversity, totalizing an area of **13 hectares** and the planting of **22,000 trees**. The overall pool of species will be 48 natives tree species from the Atlantic Forest. 
 
 Each experimental plot will contain 96 trees and will be divided in 4 equal subplots. Trees will be planted in a hexagonal planting pattern with distancing 2.3 meters from each other. 
 ![](/desenho/body_files/plot_design_small.png)
@@ -41,7 +41,10 @@ In addition a high-diversity treatment with 48 tree species will be also impleme
 # Species pool
 
 BEF-Atlantic includes species from a wide range of phylogenetic lineages and ecological strategies, emcompassing species from 12 orders and 26 plant families.
+
 ![](/desenho/body_files/species_families_tree.png)
+
+
 # Site characteristics 
 
 | Info | Description | 
@@ -60,6 +63,3 @@ BEF-Atlantic includes species from a wide range of phylogenetic lineages and eco
 |Size species pool | 24sp + 48 sp in high diversity treatment |
 |Species pool | see table below |
 |Contact persons | André Amado , Fabrício Alvim, Gustavo Paterno, Leonardo Teixeira |
-
-
-
