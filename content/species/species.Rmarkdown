@@ -1,0 +1,20 @@
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
++++
+widget = "blank"
+headless = true  # This file represents a page section.
+
+# ... Put Your Section Options Here (title etc.) ...
+
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
++++
+
+# Species pool
+
+BEF-Atlantic includes species from a wide range of phylogenetic lineages and ecological strategies, emcompassing species from 12 orders and 26 plant families.
+
+![](/species/species_files/species_families_tree.png)

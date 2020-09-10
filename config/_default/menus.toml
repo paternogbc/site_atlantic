@@ -9,6 +9,6 @@
   weight = 10
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
+  name = "Species pool"
+  url = "species/"
   weight = 20

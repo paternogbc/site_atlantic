@@ -38,12 +38,6 @@ In addition a high-diversity treatment with 48 tree species will be also impleme
 
 ![](/desenho/body_files/plot_richness_design.png)
 
-# Species pool
-
-BEF-Atlantic includes species from a wide range of phylogenetic lineages and ecological strategies, emcompassing species from 12 orders and 26 plant families.
-
-![](/desenho/body_files/species_families_tree.png)
-
 
 # Site characteristics 
 

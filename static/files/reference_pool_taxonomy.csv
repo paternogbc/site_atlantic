@@ -1,0 +1,54 @@
+speciesid,group,order,family,genus,epithet,tpl_name,authority,tax_id,tax_status,tpl_version
+Acr_acu,Angiosperms,Arecales,Arecaceae,Acrocomia,aculeata,Acrocomia aculeata,(Jacq.) Lodd. ex Mart.,kew-2570,Accepted,1.1
+Ana_col,Angiosperms,Fabales,Fabaceae,Anadenanthera,colubrina,Anadenanthera colubrina,(Vell.) Brenan,ild-15863,Accepted,1.1
+And_fra,Angiosperms,Fabales,Fabaceae,Andira,fraxinifolia,Andira fraxinifolia,Benth.,ild-15871,Accepted,1.1
+Chr_imp,Angiosperms,Ericales,Sapotaceae,Chrysophyllum,imperiale,Chrysophyllum imperiale,(Linden ex K.Koch & Fintelm.) Benth. & Hook.f.,kew-40112,Accepted,1.1
+Mel_bra,Angiosperms,Fabales,Fabaceae,Melanoxylon,brauna,Melanoxylon brauna,Schott,ild-24611,Accepted,1.1
+Bro_gla,Angiosperms,Rosales,Moraceae,Brosimum,glaziovii,Brosimum glaziovii,Taub.,kew-2683606,Accepted,1.1
+Cal_bra,Angiosperms,Malpighiales,Clusiaceae,Calophyllum,brasiliense,Calophyllum brasiliense,Cambess.,kew-2693230,Accepted,1.1
+Car_est,Angiosperms,Ericales,Lecythidaceae,Cariniana,estrellensis,Cariniana estrellensis,(Raddi) Kuntze,kew-313620,Accepted,1.1
+Cec_pac,Angiosperms,Rosales,Urticaceae,Cecropia,pachystachya,Cecropia pachystachya,Trécul,kew-2707092,Accepted,1.1
+Ced_fis,Angiosperms,Sapindales,Meliaceae,Cedrela,fissilis,Cedrela fissilis,Vell.,kew-2707200,Accepted,1.1
+Pse_gra,Angiosperms,Malvales,Malvaceae,Pseudobombax,grandiflorum,Pseudobombax grandiflorum,(Cav.) A.Robyns,kew-2412515,Accepted,1.1
+Col_gla,Angiosperms,Rosales,Rhamnaceae,Colubrina,glandulosa,Colubrina glandulosa,G.Perkins,kew-2731490,Accepted,1.1
+Cop_lan,Angiosperms,Fabales,Fabaceae,Copaifera,langsdorffii,Copaifera langsdorffii,Desf.,ild-12072,Accepted,1.1
+Cro_uru,Angiosperms,Malpighiales,Euphorbiaceae,Croton,urucurana,Croton urucurana,Baill.,kew-51446,Accepted,1.1
+Dal_nig,Angiosperms,Fabales,Fabaceae,Dalbergia,nigra,Dalbergia nigra,(Vell.) Benth.,ild-16736,Accepted,1.1
+Dic_van,Angiosperms,Sapindales,Rutaceae,Dictyoloma,vandellianum,Dictyoloma vandellianum,A.Juss.,kew-2767029,Accepted,1.1
+Apu_lei,Angiosperms,Fabales,Fabaceae,Apuleia,leiocarpa,Apuleia leiocarpa,(Vogel) J.F.Macbr.,ild-33268,Accepted,1.1
+Cup_lud,Angiosperms,Sapindales,Sapindaceae,Cupania,ludowigii,Cupania ludowigii,Somner & Ferrucci,kew-2747596,Accepted,1.1
+Eri_can,Angiosperms,Malvales,Malvaceae,Eriotheca,candolleana,Eriotheca candolleana,(K.Schum.) A.Robyns,kew-2797565,Accepted,1.1
+Eug_flo,Angiosperms,Myrtales,Myrtaceae,Eugenia,florida,Eugenia florida,DC.,kew-75234,Accepted,1.1
+Eug_bra,Angiosperms,Myrtales,Myrtaceae,Eugenia,brasiliensis,Eugenia brasiliensis,Lam.,kew-74560,Accepted,1.1
+Eut_edu,Angiosperms,Arecales,Arecaceae,Euterpe,edulis,Euterpe edulis,Mart.,kew-83063,Accepted,1.1
+Gua_ulm,Angiosperms,Malvales,Malvaceae,Guazuma,ulmifolia,Guazuma ulmifolia,Lam.,kew-2834705,Accepted,1.1
+Han_imp,Angiosperms,Lamiales,Bignoniaceae,Handroanthus,impetiginosus,Handroanthus impetiginosus,(Mart. ex DC.) Mattos,kew-317146,Accepted,1.1
+Hym_cou,Angiosperms,Fabales,Fabaceae,Hymenaea,courbaril,Hymenaea courbaril,L.,ild-1496,Accepted,1.1
+Ing_lau,Angiosperms,Fabales,Fabaceae,Inga,laurina,Inga laurina,(Sw.) Willd.,ild-29584,Accepted,1.1
+Ing_sem,Angiosperms,Fabales,Fabaceae,Inga,semialata,Inga semialata,(Vell.) C.Mart.,ild-33133,Accepted,1.1
+Myr_spl,Angiosperms,Myrtales,Myrtaceae,Myrcia,splendens,Myrcia splendens,(Sw.) DC.,kew-131639,Accepted,1.1
+Pla_ret,Angiosperms,Fabales,Fabaceae,Plathymenia,reticulata,Plathymenia reticulata,Benth.,ild-28296,Accepted,1.1
+Sip_gui,Angiosperms,Laurales,Siparunaceae,Siparuna,guianensis,Siparuna guianensis,Aubl.,kew-2601416,Accepted,1.1
+Lue_div,Angiosperms,Malvales,Malvaceae,Luehea,divaricata,Luehea divaricata,Mart.,kew-2497041,Accepted,1.1
+Mac_acu,Angiosperms,Fabales,Fabaceae,Machaerium,acutifolium,Machaerium acutifolium,Vogel,ild-33457,Accepted,1.1
+Mac_bra,Angiosperms,Fabales,Fabaceae,Machaerium,brasiliense,Machaerium brasiliense,Vogel,ild-25176,Accepted,1.1
+Mac_vil,Angiosperms,Fabales,Fabaceae,Machaerium,villosum,Machaerium villosum,Vogel,ild-33205,Accepted,1.1
+Vir_bic,Angiosperms,Magnoliales,Myristicaceae,Virola,bicuhyba,Virola bicuhyba,(Schott) Warb.,kew-2452008,Accepted,1.1
+Myr_cor,Angiosperms,Ericales,Primulaceae,Myrsine,coriacea,Myrsine coriacea,(Sw.) R.Br. ex Roem. & Schult.,kew-2503287,Accepted,1.1
+Oco_odo,Angiosperms,Laurales,Lauraceae,Ocotea,odorifera,Ocotea odorifera,(Vell.) Rohwer,kew-2386075,Accepted,1.1
+Tac_rug,Angiosperms,Fabales,Fabaceae,Tachigali,rugosa,Tachigali rugosa,(Mart. ex Benth.) Zarucchi & Pipoly,tro-50063444,Accepted,1.1
+Pip_gon,Angiosperms,Fabales,Fabaceae,Piptadenia,gonoacantha,Piptadenia gonoacantha,(Mart.) J.F.Macbr.,ild-14716,Accepted,1.1
+Pla_ele,Angiosperms,Fabales,Fabaceae,Platypodium,elegans,Platypodium elegans,Vogel,ild-28297,Accepted,1.1
+Psi_cat,Angiosperms,Myrtales,Myrtaceae,Psidium,cattleianum,Psidium cattleianum,Afzel. ex Sabine,kew-166659,Accepted,1.1
+Per_gla,Angiosperms,Malpighiales,Peraceae,Pera,glabrata,Pera glabrata,(Schott) Poepp. ex Baill.,kew-150159,Accepted,1.1
+Zey_tub,Angiosperms,Lamiales,Bignoniaceae,Zeyheria,tuberculosa,Zeyheria tuberculosa,(Vell.) Bureau ex Verl.,kew-318952,Accepted,1.1
+Sch_ter,Angiosperms,Sapindales,Anacardiaceae,Schinus,terebinthifolia,Schinus terebinthifolia,Raddi,kew-2480191,Accepted,1.1
+Mic_cin,Angiosperms,Myrtales,Melastomataceae,Miconia,cinnamomifolia,Miconia cinnamomifolia,(DC.) Naudin,tro-50172671,Accepted,1.1
+Sen_mac,Angiosperms,Fabales,Fabaceae,Senna,macranthera,Senna macranthera,(Collad.) H.S.Irwin & Barneby,ild-21382,Accepted,1.1
+Lac_pub,Angiosperms,Malpighiales,Lacistemataceae,Lacistema,pubescens,Lacistema pubescens,Mart.,tro-17400011,Accepted,1.1
+Str_pol,Angiosperms,Fabales,Fabaceae,Stryphnodendron,polyphyllum,Stryphnodendron polyphyllum,Mart.,ild-20398,Accepted,1.1
+Sya_rom,Angiosperms,Arecales,Arecaceae,Syagrus,romanzoffiana,Syagrus romanzoffiana,(Cham.) Glassman,kew-198839,Accepted,1.1
+Tap_gui,Angiosperms,Sapindales,Anacardiaceae,Tapirira,guianensis,Tapirira guianensis,Aubl.,kew-2436204,Accepted,1.1
+Ver_dis,Angiosperms,Asterales,Asteraceae,Vernonanthura,discolor,Vernonanthura discolor,(Spreng.) H.Rob.,gcc-31766,Accepted,1.1
+Voc_tuc,Angiosperms,Myrtales,Vochysiaceae,Vochysia,tucanorum,Vochysia tucanorum,Mart.,kew-2461015,Accepted,1.1
+Xyl_ser,Angiosperms,Magnoliales,Annonaceae,Xylopia,sericea,Xylopia sericea,A.St.-Hil.,kew-2467939,Accepted,1.1
