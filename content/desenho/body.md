@@ -9,20 +9,6 @@ headless = true  # This file represents a page section.
   columns = "1"
 +++
 
-# BEF-Atlantic Experiment
-
-**BEF-Atlantic** project is a large-scale restoration project and tree diversity experiment in the brazilian Atlantic Forest, designed to test the effect of tree richness and phylogenetic diversity on ecosystem functioning and restoration success of degraded tropical forests. 
-
-The main aim of **BEF-Atlantic** is to understand how tree diversity influences (i) the colonization of multiple taxonomic groups, (ii) the interaction networks and multitrophic interactions, (iii) the ecosystem processes and multifunctionality, and (iv) the feedback between plant-soil, soil-atmosphere and terrestrial-aquatic systems. Ultimately this project aims to provide clear guidelines for effective ecological restoration of the biodiversity and functioning of degraded Mata Atlantic areas. 
-
-The project will be implemented in October 2021 on a degraded area dominated by abandoned pasture at the Fazenda Experimental do Núcleo de Integração Acadêmica para a Sustentabilidade Socioambiental da Universidade Federal de Juiz de Fora (NIASSA-UFJF). 
-
-
-![](/desenho/body_files/BEF.jpg)
-
-*Google earth image showing the full area of the NIASSA farm (red lines) and the potential 
-areas where trees will be planted.*
-
 # Plot Design
 
 **BEF-Atlantic** consists of 232 experimental plots (21.25 x 26 m) with contrasting tree species richness and phylogenetic diversity, totalizing an area of 13 hectares and the planting of 22,000 trees. The overall pool of species will be 48 natives tree species from the Atlantic Forest. 
@@ -54,8 +40,22 @@ In addition a high-diversity treatment with 48 tree species will be also impleme
 
 # Site characteristics 
 
-# Research
+| Info | Description | 
+|:------|:----------|
+|Location | NIASSA Experimental Farm (Juiz de Fora, MG - Brazil)|
+|former land use | Pasture |
+|Altitude | 800-1000 m|
+|Soil type | Dystrophic Red Yellow Latosol |
+|Area | 12.8 hectares |
+|No of plots | 232 |
+|Plot size | 21.5m x 26m = 552.5m2 |
+|No of trees planted | 21 504 |
+|Planting date | October 2021 (not implemented yet) |
+|Diversity variables | species richness, phylogenetic diversity |
+|Diversity gradient | richness: 0, 1, 3, 6, 12, 24 & low - high phylogenetic distance |
+|Size species pool | 24sp + 48 sp in high diversity treatment |
+|Species pool | see table below |
+|Contact persons | André Amado , Fabrício Alvim, Gustavo Paterno, Leonardo Teixeira |
 
-# Extra information 
-
+# Species pool
 
